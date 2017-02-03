@@ -1,2 +1,3 @@
 # Parallel-and-network-computations
-Lab Projects about CE410 University of Thessaly
+Lab Projects about CE410 Course
+University of Thessaly
